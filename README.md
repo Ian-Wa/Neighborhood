@@ -62,3 +62,9 @@ To get the code..
 
 There are no known bugs.
 
+## Contact
+
+For queries reach me through [simon.mureithi@student.moringaschool.com
+](simon.mureithi@student.moringaschool.com
+)
+
