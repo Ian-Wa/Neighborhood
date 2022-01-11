@@ -21,4 +21,14 @@ To view the site [Click here.](https://neiba.herokuapp.com/)
 * A user can also create business and posts for various hoods.
 * A user can join a hood they like and also can leave the hood.
 
+## Prerequisites
+
+For this system to work on your pc you need the following; 
+
+1. Python3.8
+2. Django
+3. Pip
+4. Virtual Environment(virtual)
+5. A text editor (Vscode)
+
 
