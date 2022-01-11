@@ -72,4 +72,5 @@ For queries reach me through [simon.mureithi@student.moringaschool.com
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+Copyright © 2022  [SIMON KAIRU](https://github.com/simonkairu)
 
