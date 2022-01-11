@@ -68,3 +68,8 @@ For queries reach me through [simon.mureithi@student.moringaschool.com
 ](simon.mureithi@student.moringaschool.com
 )
 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
