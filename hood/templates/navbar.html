@@ -295,7 +295,7 @@
                         {{user.username}}<b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li><a href="{% url 'profile' %}"><i class="fa fa-user-o"></i> Profile</a></li>
-                        <li><a href="#"><i class="fa fa-sliders"></i> Account settings</a></li>
+                        <li><a href="#"><i class="fa fa-sliders"></i> <em>Account settings</em> </a></li>
                         <li class="divider"></li>
                         {% if user.is_authenticated %}
                         <li><a href="/logout"><i class="material-icons">&#xE8AC;</i> Signout</a></li>
