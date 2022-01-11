@@ -57,3 +57,8 @@ To get the code..
 * Html
 * Css
 * Bootstrap3
+
+## Known Bugs
+
+There are no known bugs.
+
