@@ -2,7 +2,7 @@
 
 ## Author
 
-[simon kairu](https://github.com/simonkairu)
+[ian wanjira](https://github.com/ian-wa)
 
 ## Description
 
